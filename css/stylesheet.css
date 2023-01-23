@@ -1,0 +1,59 @@
+.box-1{
+
+    position: relative;
+    width: 1140px;
+    height: 228px;
+    background-color:black;
+
+
+}
+.box-2{
+
+    position: relative;
+    width: 1140px;
+    height: 38px;
+    background-color:white;
+}
+
+.box-3{
+
+    position: relative;
+    width: 1140px;
+    height: 228px;
+    background-color:white;
+    opacity:0;
+    z-index:-1;
+
+
+}
+
+.box-4{
+
+    position: relative;
+    width: 1140px;
+    height: 38px;
+    background-color:white;
+
+}
+
+.box-5{
+
+    position: relative;
+    width: 1140px;
+    height:228px;
+    background-color:rgb(41, 96, 24);
+
+}
+
+.container {
+position:absolute;
+background-color:rgb(166, 34, 22);
+width: 1140px;
+height: 760px;
+}
+
+.image {
+position:relative;
+left: 430px;
+top: 115px;
+}
